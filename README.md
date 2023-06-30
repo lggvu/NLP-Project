@@ -4,7 +4,7 @@ Checkpoint of 3 models: https://husteduvn-my.sharepoint.com/:f:/g/personal/khanh
 
 Data after applying backtranslation: https://drive.google.com/drive/folders/1LU4oxv5Eue8jGfPr17IrEkke0EH2BI6c?usp=sharing  
 
-To run the code:
+To train the model, and evaluate from a .txt file:
 ```
 git clone https://github.com/lggvu/NLP-Project
 pip install -r requirements.txt
